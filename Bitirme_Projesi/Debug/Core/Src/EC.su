@@ -1,0 +1,4 @@
+../Core/Src/EC.c:23:10:EC_Read_ADC	16	static
+../Core/Src/EC.c:36:6:EC_Buffera_Topla	16	static
+../Core/Src/EC.c:46:7:EC_Get_Median_Num	64	dynamic
+../Core/Src/EC.c:71:7:EC_Get_Value	32	static

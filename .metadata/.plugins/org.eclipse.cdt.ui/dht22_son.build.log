@@ -1,0 +1,10 @@
+21:01:54 **** Incremental Build of configuration Debug for project dht22_son ****
+make -j8 all 
+arm-none-eabi-size   dht22_son.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7148	     20	   1580	   8748	   222c	dht22_son.elf
+Finished building: default.size.stdout
+ 
+
+21:01:54 Build Finished. 0 errors, 0 warnings. (took 519ms)
+

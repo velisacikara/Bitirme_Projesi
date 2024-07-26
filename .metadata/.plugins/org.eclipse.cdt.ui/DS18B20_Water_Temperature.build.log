@@ -1,0 +1,10 @@
+19:23:32 **** Incremental Build of configuration Debug for project DS18B20_Water_Temperature ****
+make -j8 all 
+arm-none-eabi-size   DS18B20_Water_Temperature.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7820	     20	   1660	   9500	   251c	DS18B20_Water_Temperature.elf
+Finished building: default.size.stdout
+ 
+
+19:23:32 Build Finished. 0 errors, 0 warnings. (took 393ms)
+

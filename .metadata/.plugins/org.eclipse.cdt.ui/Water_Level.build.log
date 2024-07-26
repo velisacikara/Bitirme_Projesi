@@ -1,0 +1,10 @@
+16:50:34 **** Incremental Build of configuration Debug for project Water_Level ****
+make -j8 all 
+arm-none-eabi-size   Water_Level.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7996	     20	   1644	   9660	   25bc	Water_Level.elf
+Finished building: default.size.stdout
+ 
+
+16:50:35 Build Finished. 0 errors, 0 warnings. (took 399ms)
+

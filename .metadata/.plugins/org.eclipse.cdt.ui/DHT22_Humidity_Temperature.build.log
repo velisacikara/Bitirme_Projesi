@@ -1,0 +1,10 @@
+11:48:27 **** Incremental Build of configuration Debug for project DHT22_Humidity_Temperature ****
+make -j8 all 
+arm-none-eabi-size   DHT22_Humidity_Temperature.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6964	     20	   1580	   8564	   2174	DHT22_Humidity_Temperature.elf
+Finished building: default.size.stdout
+ 
+
+11:48:27 Build Finished. 0 errors, 0 warnings. (took 385ms)
+

@@ -1,0 +1,4 @@
+../Core/Src/BMP180.c:38:6:Kalibrasyon_Degeri_Okuma	48	static
+../Core/Src/BMP180.c:59:10:Ham_Sicaklik_Okuma	32	static
+../Core/Src/BMP180.c:69:7:BMP180_Sicaklik_Okuma	16	static
+../Core/Src/BMP180.c:80:6:BMP180_Init	8	static

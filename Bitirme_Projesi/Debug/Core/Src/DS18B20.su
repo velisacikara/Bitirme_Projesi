@@ -1,0 +1,7 @@
+../Core/Src/DS18B20.c:12:6:delay	16	static
+../Core/Src/DS18B20.c:28:6:Set_Pin_Output	40	static
+../Core/Src/DS18B20.c:37:6:Set_Pin_Input	40	static
+../Core/Src/DS18B20.c:47:9:DS18B20_Start	16	static
+../Core/Src/DS18B20.c:66:6:DS18B20_Write	24	static
+../Core/Src/DS18B20.c:99:9:DS18B20_Read	16	static
+../Core/Src/DS18B20.c:121:7:DS18B20_ReadValue	8	static

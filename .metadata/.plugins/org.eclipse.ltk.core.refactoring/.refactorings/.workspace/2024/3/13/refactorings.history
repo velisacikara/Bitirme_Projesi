@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;bmp180_sicaklik_okuma&apos;" deleteContents="false" description="Delete resource &apos;bmp180_sicaklik_okuma&apos;" element1="/bmp180_sicaklik_okuma" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1711363509098"/>&#x0A;<refactoring comment="Delete resource &apos;DHT22_Sensor&apos;" deleteContents="false" description="Delete resource &apos;DHT22_Sensor&apos;" element1="/DHT22_Sensor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1711365563301"/>
+</session>

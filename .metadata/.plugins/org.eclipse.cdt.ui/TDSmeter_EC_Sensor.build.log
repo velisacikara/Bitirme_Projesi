@@ -1,0 +1,10 @@
+18:46:35 **** Incremental Build of configuration Debug for project TDSmeter_EC_Sensor ****
+make -j8 all 
+arm-none-eabi-size   TDSmeter_EC_Sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11356	     24	   1768	  13148	   335c	TDSmeter_EC_Sensor.elf
+Finished building: default.size.stdout
+ 
+
+18:46:35 Build Finished. 0 errors, 0 warnings. (took 432ms)
+
